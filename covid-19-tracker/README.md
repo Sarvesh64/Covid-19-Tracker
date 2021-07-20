@@ -1,3 +1,8 @@
+Access the Web App using the below link: 
+https://covid-19-tracker-f3d62.firebaseapp.com/
+
+https://covid-19-tracker-f3d62.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
